@@ -22,6 +22,5 @@ perform the Login Functionality
 Open the application and do the functionality
 ----Launch the Browser
 --- open the App
---- do the
 ---do the Login 
 
