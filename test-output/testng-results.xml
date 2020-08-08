@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-08T11:21:20 EDT" name="Default suite" finished-at="2020-08-08T11:21:32 EDT" duration-ms="11167">
+    <groups>
+    </groups>
+    <test started-at="2020-08-08T11:21:20 EDT" name="Default test" finished-at="2020-08-08T11:21:32 EDT" duration-ms="11167">
+      <class name="com_Aug_08.itestContextDemo">
+        <test-method is-config="true" signature="SetUp(org.testng.ITestContext)[pri:0, instance:com_Aug_08.itestContextDemo@78b729e6]" started-at="2020-08-08T11:21:20 EDT" name="SetUp" finished-at="2020-08-08T11:21:24 EDT" duration-ms="3554" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2d36e77e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="Amazon(org.testng.ITestContext)[pri:0, instance:com_Aug_08.itestContextDemo@78b729e6]" started-at="2020-08-08T11:21:24 EDT" name="Amazon" finished-at="2020-08-08T11:21:26 EDT" duration-ms="2362" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2d36e77e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amazon -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com_Aug_08.itestContextDemo@78b729e6]" started-at="2020-08-08T11:21:26 EDT" name="TearDown" finished-at="2020-08-08T11:21:27 EDT" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp(org.testng.ITestContext)[pri:0, instance:com_Aug_08.itestContextDemo@78b729e6]" started-at="2020-08-08T11:21:27 EDT" name="SetUp" finished-at="2020-08-08T11:21:30 EDT" duration-ms="3136" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2d36e77e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="facebook(org.testng.ITestContext)[pri:0, instance:com_Aug_08.itestContextDemo@78b729e6]" started-at="2020-08-08T11:21:30 EDT" name="facebook" finished-at="2020-08-08T11:21:31 EDT" duration-ms="1748" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2d36e77e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com_Aug_08.itestContextDemo@78b729e6]" started-at="2020-08-08T11:21:31 EDT" name="TearDown" finished-at="2020-08-08T11:21:32 EDT" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com_Aug_08.itestContextDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

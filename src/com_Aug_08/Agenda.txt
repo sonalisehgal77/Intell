@@ -1,0 +1,27 @@
+
+
+TestNg
+=======
+ITextContext:- Interface
+Create an instance of the interface
+
+
+ITestResult:- Class
+=======================
+
+Assignment:-
+======================
+1. store Element Locators in an Properties File.---key value pair
+2. Method --Read the properties file
+3. method :- --- Find the Element on Facebook.
+4. class----(java with main method or testng)---report for test ng
+java class with normal exectuion
+perform the Login Functionality
+
+---Launch the Browser
+Open the application and do the functionality
+----Launch the Browser
+--- open the App
+--- do the
+---do the Login 
+
